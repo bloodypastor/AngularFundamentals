@@ -1,0 +1,13 @@
+.navbar {
+    border-radius: 0px;
+}
+.navbar-default {
+    background-color: #312929;
+    border-color: #312525;
+}
+.navbar-default .navbar-nav>li>a {
+  font-size: 18px;
+}
+.navbar-default .navbar-brand {
+  font-size: 20px
+}
